@@ -83,6 +83,7 @@ UART-TX-Verilog-Implementation/
 ├── 🙈 .gitignore
 └── 📄 README.md
 ---
+```
 ## 👩‍💻 Author
 
 **Haneen Fady Shahin**  
