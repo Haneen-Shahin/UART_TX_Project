@@ -82,6 +82,20 @@ UART-TX-Verilog-Implementation/
 ├── 📄 LICENSE
 ├── 🙈 .gitignore
 └── 📄 README.md
+```
+---
+
+## 🧪 Simulation & Verification
+
+The design was verified using a self-checking testbench in **QuestaSim**, covering arithmetic operations, corner cases, pipeline timing, and reset behavior.
+
+---
+
+### 💻 Running Simulation
+
+Bash
+```
+vsim -do Code/Script/run_TX.do
 ---
 ```
 ## 👩‍💻 Author
