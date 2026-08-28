@@ -82,3 +82,9 @@ UART-TX-Verilog-Implementation/
 ├── 📄 LICENSE
 ├── 🙈 .gitignore
 └── 📄 README.md
+---
+## 👩‍💻 Author
+
+**Haneen Fady Shahin**  
+
+> 🤝 **Note:** Feel free to use, modify, or integrate any part of this design and documentation for your own research, study, or projects!
